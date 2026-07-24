@@ -1,12 +1,12 @@
 {
-  "name": "KeepIt · AI Video",
-  "short_name": "KeepIt",
-  "description": "Микросервисная платформа: тренды, анализ, копия, судья, сохранение.",
+  "name": "AI Farm",
+  "short_name": "AI Farm",
+  "description": "Тренды, анализ, копия, судья, сохранение.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0f1115",
-  "theme_color": "#0f1115",
+  "background_color": "#141a3a",
+  "theme_color": "#141a3a",
   "icons": [
     {
       "src": "icon.svg",
