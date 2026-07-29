@@ -1,0 +1,388 @@
+{
+ "source": "MakeHuman (CC0)",
+ "vertexCount": 13380,
+ "triangleCount": 26756,
+ "heightMeters": 1.75,
+ "morphs": [
+  {
+   "name": "breast-point-decr",
+   "offset": 0,
+   "count": 283
+  },
+  {
+   "name": "breast-point-incr",
+   "offset": 4528,
+   "count": 210
+  },
+  {
+   "name": "breast-volume-vert-down",
+   "offset": 7888,
+   "count": 244
+  },
+  {
+   "name": "breast-volume-vert-up",
+   "offset": 11792,
+   "count": 369
+  },
+  {
+   "name": "buttocks-volume-decr",
+   "offset": 17696,
+   "count": 203
+  },
+  {
+   "name": "buttocks-volume-incr",
+   "offset": 20944,
+   "count": 526
+  },
+  {
+   "name": "chin-height-decr",
+   "offset": 29360,
+   "count": 257
+  },
+  {
+   "name": "chin-height-incr",
+   "offset": 33472,
+   "count": 480
+  },
+  {
+   "name": "chin-prominent-decr",
+   "offset": 41152,
+   "count": 173
+  },
+  {
+   "name": "chin-prominent-incr",
+   "offset": 43920,
+   "count": 108
+  },
+  {
+   "name": "chin-width-decr",
+   "offset": 45648,
+   "count": 142
+  },
+  {
+   "name": "chin-width-incr",
+   "offset": 47920,
+   "count": 198
+  },
+  {
+   "name": "head-fat-decr",
+   "offset": 51088,
+   "count": 794
+  },
+  {
+   "name": "head-fat-incr",
+   "offset": 63792,
+   "count": 742
+  },
+  {
+   "name": "head-scale-depth-decr",
+   "offset": 75664,
+   "count": 3554
+  },
+  {
+   "name": "head-scale-depth-incr",
+   "offset": 132528,
+   "count": 3590
+  },
+  {
+   "name": "head-scale-horiz-decr",
+   "offset": 189968,
+   "count": 4160
+  },
+  {
+   "name": "head-scale-horiz-incr",
+   "offset": 256528,
+   "count": 4160
+  },
+  {
+   "name": "head-scale-vert-decr",
+   "offset": 323088,
+   "count": 4211
+  },
+  {
+   "name": "head-scale-vert-incr",
+   "offset": 390464,
+   "count": 4247
+  },
+  {
+   "name": "hip-scale-horiz-decr",
+   "offset": 458416,
+   "count": 1110
+  },
+  {
+   "name": "hip-scale-horiz-incr",
+   "offset": 476176,
+   "count": 1110
+  },
+  {
+   "name": "hip-waist-down",
+   "offset": 493936,
+   "count": 970
+  },
+  {
+   "name": "hip-waist-up",
+   "offset": 509456,
+   "count": 529
+  },
+  {
+   "name": "l-cheek-bones-decr",
+   "offset": 517920,
+   "count": 91
+  },
+  {
+   "name": "l-cheek-bones-incr",
+   "offset": 519376,
+   "count": 63
+  },
+  {
+   "name": "l-cheek-volume-decr",
+   "offset": 520384,
+   "count": 194
+  },
+  {
+   "name": "l-cheek-volume-incr",
+   "offset": 523488,
+   "count": 229
+  },
+  {
+   "name": "l-eye-scale-decr",
+   "offset": 527152,
+   "count": 469
+  },
+  {
+   "name": "l-eye-scale-incr",
+   "offset": 534656,
+   "count": 502
+  },
+  {
+   "name": "l-eye-trans-in",
+   "offset": 542688,
+   "count": 494
+  },
+  {
+   "name": "l-eye-trans-out",
+   "offset": 550592,
+   "count": 593
+  },
+  {
+   "name": "l-upperarm-muscle-decr",
+   "offset": 560080,
+   "count": 212
+  },
+  {
+   "name": "l-upperarm-muscle-incr",
+   "offset": 563472,
+   "count": 209
+  },
+  {
+   "name": "l-upperleg-muscle-decr",
+   "offset": 566816,
+   "count": 281
+  },
+  {
+   "name": "l-upperleg-muscle-incr",
+   "offset": 571312,
+   "count": 262
+  },
+  {
+   "name": "lowerlegs-height-decr",
+   "offset": 575504,
+   "count": 2612
+  },
+  {
+   "name": "lowerlegs-height-incr",
+   "offset": 617296,
+   "count": 2564
+  },
+  {
+   "name": "mouth-lowerlip-volume-decr",
+   "offset": 658320,
+   "count": 72
+  },
+  {
+   "name": "mouth-lowerlip-volume-incr",
+   "offset": 659472,
+   "count": 187
+  },
+  {
+   "name": "mouth-scale-horiz-decr",
+   "offset": 662464,
+   "count": 710
+  },
+  {
+   "name": "mouth-scale-horiz-incr",
+   "offset": 673824,
+   "count": 876
+  },
+  {
+   "name": "mouth-upperlip-volume-decr",
+   "offset": 687840,
+   "count": 108
+  },
+  {
+   "name": "mouth-upperlip-volume-incr",
+   "offset": 689568,
+   "count": 168
+  },
+  {
+   "name": "neck-scale-horiz-decr",
+   "offset": 692256,
+   "count": 424
+  },
+  {
+   "name": "neck-scale-horiz-incr",
+   "offset": 699040,
+   "count": 556
+  },
+  {
+   "name": "nose-hump-decr",
+   "offset": 707936,
+   "count": 30
+  },
+  {
+   "name": "nose-hump-incr",
+   "offset": 708416,
+   "count": 414
+  },
+  {
+   "name": "nose-scale-horiz-decr",
+   "offset": 715040,
+   "count": 312
+  },
+  {
+   "name": "nose-scale-horiz-incr",
+   "offset": 720032,
+   "count": 494
+  },
+  {
+   "name": "nose-scale-vert-decr",
+   "offset": 727936,
+   "count": 349
+  },
+  {
+   "name": "nose-scale-vert-incr",
+   "offset": 733520,
+   "count": 407
+  },
+  {
+   "name": "nose-width1-decr",
+   "offset": 740032,
+   "count": 62
+  },
+  {
+   "name": "nose-width1-incr",
+   "offset": 741024,
+   "count": 60
+  },
+  {
+   "name": "r-cheek-bones-decr",
+   "offset": 741984,
+   "count": 91
+  },
+  {
+   "name": "r-cheek-bones-incr",
+   "offset": 743440,
+   "count": 63
+  },
+  {
+   "name": "r-cheek-volume-decr",
+   "offset": 744448,
+   "count": 194
+  },
+  {
+   "name": "r-cheek-volume-incr",
+   "offset": 747552,
+   "count": 229
+  },
+  {
+   "name": "r-eye-scale-decr",
+   "offset": 751216,
+   "count": 469
+  },
+  {
+   "name": "r-eye-scale-incr",
+   "offset": 758720,
+   "count": 469
+  },
+  {
+   "name": "r-eye-trans-in",
+   "offset": 766224,
+   "count": 465
+  },
+  {
+   "name": "r-eye-trans-out",
+   "offset": 773664,
+   "count": 593
+  },
+  {
+   "name": "r-upperarm-muscle-decr",
+   "offset": 783152,
+   "count": 212
+  },
+  {
+   "name": "r-upperarm-muscle-incr",
+   "offset": 786544,
+   "count": 209
+  },
+  {
+   "name": "r-upperleg-muscle-decr",
+   "offset": 789888,
+   "count": 281
+  },
+  {
+   "name": "r-upperleg-muscle-incr",
+   "offset": 794384,
+   "count": 262
+  },
+  {
+   "name": "stomach-pregnant-decr",
+   "offset": 798576,
+   "count": 144
+  },
+  {
+   "name": "stomach-pregnant-incr",
+   "offset": 800880,
+   "count": 350
+  },
+  {
+   "name": "stomach-tone-decr",
+   "offset": 806480,
+   "count": 199
+  },
+  {
+   "name": "stomach-tone-incr",
+   "offset": 809664,
+   "count": 175
+  },
+  {
+   "name": "torso-scale-horiz-decr",
+   "offset": 812464,
+   "count": 5866
+  },
+  {
+   "name": "torso-scale-horiz-incr",
+   "offset": 906320,
+   "count": 5526
+  },
+  {
+   "name": "torso-vshape-decr",
+   "offset": 994736,
+   "count": 5088
+  },
+  {
+   "name": "torso-vshape-incr",
+   "offset": 1076144,
+   "count": 5036
+  },
+  {
+   "name": "upperlegs-height-decr",
+   "offset": 1156720,
+   "count": 3311
+  },
+  {
+   "name": "upperlegs-height-incr",
+   "offset": 1209696,
+   "count": 3162
+  }
+ ]
+}
